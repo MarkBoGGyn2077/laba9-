@@ -1,6 +1,6 @@
 #include <iostream>
 #include "std.h"
-
+//учебная работа
 int main() {
     int num1, num2;
 
