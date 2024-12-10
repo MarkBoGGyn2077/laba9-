@@ -16,7 +16,7 @@ int main() {
     std::cout << "You entered the numbers: " << num1 << " and " << num2 << std::endl;
     int difference = a - b;
     int sum = num1 + num2;
-    std::cout << "symma " << sum << std::endl;
+    //std::cout << "symma " << sum << std::endl;
     std::cout << "Difference:" << difference << std::endl;
     std::cout << "Ymnojenie" << a * b << std::endl;
 
